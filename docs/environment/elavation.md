@@ -99,7 +99,7 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 ![image alt](https://lh3.googleusercontent.com/lg7Rz0Ji-yv2fpd1wo7SRkWvseJEmBndg0vicbmF6N6OW_D7YPGeQOIxzfIs8anpg5umfzCfLSPMikyEZUvjt5WOrFwD60AgyIxMAg=w1064-v0)
 
 <ol class="annotation">
-    <li>靜止層高在標題列（A），資訊卡（B）以及浮動操作按鈕（C）在桌上型裝置的正面視覺呈現。</li>
+    <li>靜止層高在標題列（A），浮動操作按鈕（B）以及資訊卡（C）在桌上型裝置的正面視覺呈現。</li>
     <li>側邊視角的相同元件。</li>
 </ol>
 
